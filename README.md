@@ -1,2 +1,1 @@
-# Corona
-<h1>CoronaMapTracker</h1>
+# CoronaMapTracker
